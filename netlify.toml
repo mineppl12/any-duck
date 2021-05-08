@@ -1,2 +1,2 @@
-command = "nodemon server.js"
+command = "node ./build.js"
 publish = "public"
