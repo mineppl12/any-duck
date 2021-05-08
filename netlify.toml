@@ -1,1 +1,3 @@
-functions="express"
+[build]
+  command = "node ./build.js"
+  publish = "public"
