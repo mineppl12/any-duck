@@ -1,2 +1,1 @@
-command = "node ./build.js"
-publish = "public"
+functions="express"
