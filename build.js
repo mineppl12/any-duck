@@ -25,6 +25,6 @@ function ejs2html({ path, outPath, data, options }) {
 }
 
 ejs2html({
-  path: `${__dirname}/views/room.ejs`,
+  path: `${__dirname}/views/index.html`,
   outPath: `${__dirname}/public/index.html`
 });
